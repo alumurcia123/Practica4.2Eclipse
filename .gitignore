@@ -1,0 +1,10 @@
+Vamos a indicar que archivos y carpetas de Eclipse donde no haya codigo fuente y que  han de ser ignoradas
+.metadata/
+.classpath
+.proyect
+.settings
+
+Tambien ignoraremos las capetas de salida de compilacion
+bin/
+target/
+
